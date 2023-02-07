@@ -1,6 +1,6 @@
 # Cours Techniques d'intégration (6h)
 
-cours du 13 et 20 février 2023 au CESI.
+Cours du 13 et 20 février 2023 au CESI.
 
 ## 1. Intégrale de Riemann
 Inférieure             | Supérieure
