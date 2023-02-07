@@ -66,7 +66,7 @@ $$
 
 
 ## 4. Intégration numérique
-### [Refaire pages 3 à 6 de ce cours](https://github.com/antoineperrot/cesi-maths/blob/main/ets/integration_numerique/cours.pdf)
+### [Refaire pages 3 à 5 de ce cours](https://github.com/antoineperrot/cesi-maths/blob/main/ets/integration_numerique/cours.pdf)
 ### 4.1 Formules de quadratures
 ### 4.2 Ordre des formules de quadrature
 
