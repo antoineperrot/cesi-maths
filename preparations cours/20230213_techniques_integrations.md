@@ -9,10 +9,9 @@ Inférieure             | Supérieure
 
 __Définition:__
 
-[Pages 1 et 2](https://github.com/antoineperrot/cesi-maths/blob/main/notes%20de%20cours/methodes_numeriques.pdf)
+### [Refaire pages 1 et 2 de ce cours](https://github.com/antoineperrot/cesi-maths/blob/main/notes%20de%20cours/methodes_numeriques.pdf)
 
 
-$\varepsilon$
 
 
 ## 2. Changement de variable
@@ -22,7 +21,7 @@ $\int_a^bf(x)dx$
 
 ### 2.1 Cours
 __Théorème du changement de variable:__
-Soit la fonction $varphi$ admettant une dérivée continue sur l'intervalle $[t_1, t_2]$ définit par $t_1 = \varphi^{-1}(a)$ et $t_2 = \varphi^{-1}(b)$, alors
+Soit la fonction $\varphi$ admettant une dérivée continue sur l'intervalle $[t_1, t_2]$ définit par $t_1 = \varphi^{-1}(a)$ et $t_2 = \varphi^{-1}(b)$, alors
 
 $$
 \color{red}\int_a^bf(x)dx=\int_{\varphi^{-1}(a)}^{\varphi^{-1}(b)}f[\varphi(t)]\varphi'(t)dt
