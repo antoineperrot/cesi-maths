@@ -55,6 +55,7 @@ Cours sur le changement de variable
 
 ### Exercice maison
 On pose 
+
 $$
 I_n = \int_0^\infty x^n e^{-x} dx
 $$
