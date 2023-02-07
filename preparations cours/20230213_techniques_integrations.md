@@ -70,7 +70,7 @@ $$
 ### 4.1 Formules de quadratures
 ### 4.2 Ordre des formules de quadrature
 
-### [Notebook exercices python](https://github.com/antoineperrot/cesi-maths/blob/main/notebooks/3.%20integration_numerique.ipynb)
+### [Notebook exercices python](https://github.com/antoineperrot/cesi-maths/blob/main/ets/integration_numerique/notebook_exercice.ipynb)
 
 
 
