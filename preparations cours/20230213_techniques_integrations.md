@@ -9,7 +9,7 @@ Inférieure             | Supérieure
 
 __Définition:__
 
-### [Refaire pages 1 et 2 de ce cours](https://github.com/antoineperrot/cesi-maths/blob/main/notes%20de%20cours/methodes_numeriques.pdf)
+### [Refaire pages 1 et 2 de ce cours](https://github.com/antoineperrot/cesi-maths/blob/main/ets/integration_numerique/cours.pdf)
 
 
 
@@ -66,7 +66,7 @@ $$
 
 
 ## 4. Intégration numérique
-### [Refaire pages 3 à 6 de ce cours](https://github.com/antoineperrot/cesi-maths/blob/main/notes%20de%20cours/methodes_numeriques.pdf)
+### [Refaire pages 3 à 6 de ce cours](https://github.com/antoineperrot/cesi-maths/blob/main/ets/integration_numerique/cours.pdf)
 ### 4.1 Formules de quadratures
 ### 4.2 Ordre des formules de quadrature
 
