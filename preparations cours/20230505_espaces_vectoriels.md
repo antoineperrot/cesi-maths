@@ -52,5 +52,22 @@ F est aussi noté Vect(x1, ..., xn)
 ### définition d'une base d'un espace vectoriel
 ### définition de la dimension d'un e.v.
 
+# Cours 2 
+ 
+### Rappels cours précédent (def ev, sev, famille libre, génératrice, base)
+
+### espaces supplémentaires
+
+E, avec F et G sev de E. F et G supplémentaires dans E ssi F+G = E et F inter G = {O}.
+
+[exo 10, 16, 19](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=bde/algebrelineaire/evsevs&type=fexo)
+
+### fonctions injectives, surjectives ?
+
+### exos sur tout depuis le début
+
+
+
+
 
 
