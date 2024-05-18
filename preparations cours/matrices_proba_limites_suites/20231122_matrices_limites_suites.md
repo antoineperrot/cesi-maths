@@ -14,7 +14,7 @@ https://github.com/antoineperrot/cesi-maths/blob/main/exos/Exos_matrices.pdf
   - nombres réeels
   - matrices
 
-# EXO 3
+# EXO 2
 
 # Chaines de Markov
 
